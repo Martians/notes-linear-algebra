@@ -1,63 +1,29 @@
-[![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-python)](https://github.com/chenyyx/notes-python)
+[![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-linear-algebra)](https://github.com/chenyyx/notes-linear-algebra)
 
-# 中文 Python 笔记
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+# 中文 Linear Algebra （线性代数） 笔记
 
 > 版本：0.0.1<br>
-> 作者：李金<br>
-> 邮件：lijinwithyou@gmail.com<br>
-
-`Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
+> 作者：陈瑶<br>
+> 邮件：chinachenyyx@163.com<br>
 
 ---
 
-## 简介
+## Overview （概述）
 
+Most of the content comes from the web.<br>
 大部分内容来自网络。
 
-默认安装了 `Python 2.7`，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。
+I know my knowledge of linear algebra is not very thorough, so I re-learn linear algebra, record the corresponding notes.<br>
+由于本人对线性代数的知识了解不深，特意重新学习一次线代，记录下相应笔记。
 
-> life is short. use python.
-
-推荐使用 [Anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
-
-笔记内容使用 `ipython notebook` 来展示。
-
-安装好 `Python` 和相应的包之后，可以在命令行下输入：
-
-```
-$ ipython notebook
-```
-来进入 `ipython notebook`。
+课程顺序是按照麻省理工公开课的 [Linear Algebra](http://open.163.com/special/opencourse/daishu.html) 记录的学习笔记。
 
 ----
 
-## 基本环境配置
-
-- 安装 [Anaconda](http://www.continuum.io/downloads) 或者 [Miniconda](http://conda.pydata.org/miniconda.html)
-
-- 更新环境
-``` 
-conda update conda
-conda update anaconda
-```
-
----
-
-## 参考
-
-- [Enthought Training on Demand](https://training.enthought.com/)
-- [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html#rd)
-- [Scipy.org](http://scipy.org/)
-- [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
-- [High Performance Scientific Computing](http://faculty.washington.edu/rjl/uwhpsc-coursera/index.html)
-- [Scipy Lectures](http://www.scipy-lectures.org/)
-- [Pandas.org](http://pandas.pydata.org/pandas-docs/stable/index.html)
-
-----
-
-## 目录
-
-可以在 Notebook 中打开 `generate static files.ipynb`，或者命令行中运行代码 `generate_static_files.py` 来生成静态的 HTML 文件。
+## Contents （目录）
 
 ---
 
