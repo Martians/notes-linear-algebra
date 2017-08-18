@@ -1,7 +1,5 @@
 [![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-linear-algebra)](https://github.com/chenyyx/notes-linear-algebra)
 
-[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](https://github.com/chenyyx/notes-linear-algebra)
-
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 # 中文 Linear Algebra （线性代数） 笔记
 
