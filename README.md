@@ -125,3 +125,12 @@ I know my knowledge of linear algebra is not very thorough, so I re-learn linear
 	 - [34.02 伪逆](https://github.com/chenyyx/notes-linear-algebra/blob/master/34-%E5%B7%A6%E5%8F%B3%E9%80%86%E5%92%8C%E4%BC%AA%E9%80%86/34-%E5%B7%A6%E5%8F%B3%E9%80%86%E5%92%8C%E4%BC%AA%E9%80%86.md)
 - [35. **期末复习**](https://github.com/chenyyx/notes-linear-algebra/tree/master/35-%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0)
 	 - [35.01 期末复习](https://github.com/chenyyx/notes-linear-algebra/blob/master/35-%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/35-%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.md)
+
+
+----
+
+## 对应课程
+
+![MIT_Linear-Algebra_1](/images/LA_whole_1.png)
+
+![MIT_Linear-Algebra_2](/images/LA_whole_2.png)
