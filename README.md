@@ -25,9 +25,7 @@ I know my knowledge of linear algebra is not very thorough, so I re-learn linear
 ---
 
 - [01. **方程组的几何解释**](https://github.com/chenyyx/notes-linear-algebra/tree/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A)
-	 - [01.01 linear Algebra 简介](https://github.com/chenyyx/notes-linear-algebra/blob/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A.md)
-	 - [01.02 行图像和列图像](https://github.com/chenyyx/notes-linear-algebra/blob/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A.md)
-	 - [01.03 线性方程的矩阵表示](https://github.com/chenyyx/notes-linear-algebra/blob/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A.md)
+	 - [01.01 方程组的几何解释](https://github.com/chenyyx/notes-linear-algebra/blob/master/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A/01-%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%87%A0%E4%BD%95%E8%A7%A3%E9%87%8A.md)
 - [02. **矩阵消元**](02-python-essentials)
 	 - [02.01 矩阵消元](https://github.com/chenyyx/notes-linear-algebra/blob/master/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83/02-%E7%9F%A9%E9%98%B5%E6%B6%88%E5%85%83.md)
 - [03. **乘法和逆矩阵**](https://github.com/chenyyx/notes-linear-algebra/tree/master/03-%E4%B9%98%E6%B3%95%E5%92%8C%E9%80%86%E7%9F%A9%E9%98%B5)
